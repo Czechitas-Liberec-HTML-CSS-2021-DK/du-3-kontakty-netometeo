@@ -28,13 +28,13 @@ align-items: center;
 
 .foto {
   height: 150px;
-  weight: 150px;
+  width: 150px;
   border-radius: 50%;
 }
 
 .icon {
   height: 35px;
-  weight: 35px;
+  width: 35px;
 }
 
 
